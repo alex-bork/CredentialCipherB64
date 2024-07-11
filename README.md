@@ -11,4 +11,9 @@ By using this application, you agree to use it at your own risk.
 ## Versions
 
 ### 1.0
-initial creation
+
+- initial creation
+
+### 1.1
+
+- App name corrected
