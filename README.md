@@ -1,4 +1,5 @@
 # Credention Cipher Base64
+
 This tool encrypts and decrypts credential data into or from a Base64 string.
 
 The encryption is implemented using the standard base64 python library.
