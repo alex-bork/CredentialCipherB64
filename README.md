@@ -1,4 +1,4 @@
-# Credention Cipher Base64
+# Credentials Cipher Base64
 
 This tool encrypts and decrypts credential data into or from a Base64 string.
 
